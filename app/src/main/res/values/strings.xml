@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FullScreenPopupWindow</string>
-    <string name="show_pop">show</string>
+    <string name="show_fullscreen">show fullscreen</string>
+    <string name="show_normal">show normal</string>
 </resources>
